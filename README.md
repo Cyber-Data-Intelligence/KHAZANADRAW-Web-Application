@@ -20,3 +20,11 @@ It provides a secure, transparent, and efficient platform for conducting digital
 ## ⚙️ Installation Guide
 
 1. **Clone the repository**
+
+
+## 📸 Screenshots
+![Admin Panel](assets/screenshots/admin.png)
+![User Dashboard](assets/screenshots/user.png)
+
+## 📜 License
+MIT License
