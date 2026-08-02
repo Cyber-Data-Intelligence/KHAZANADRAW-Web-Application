@@ -23,8 +23,8 @@ It provides a secure, transparent, and efficient platform for conducting digital
 
 
 ## 📸 Screenshots
-![Admin Panel](assets/screenshots/admin.png)
-![User Dashboard](assets/screenshots/user.png)
+![Admin Panel](admin-panel.png)
+![User Dashboard](user-panel.png)
 
 ## 📜 License
 MIT License
